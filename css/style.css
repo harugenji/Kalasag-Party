@@ -47,7 +47,7 @@ header {
   background: #454545;
   height: 20px;
   text-align: center;
-  width: 1349px
+  width: auto;
 }
 header img {
   padding-top: 20px;
